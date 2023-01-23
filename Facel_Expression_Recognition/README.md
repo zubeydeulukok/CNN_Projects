@@ -1,1 +1,2 @@
+[This is the file studied in the deep learning introductory course with keras](https://github.com/zubeydeulukok/Keras_ile_Derin_Ogrenmeye_Giris)
 - Duygu Tanıma [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Keras_ile_Derin_Ogrenmeye_Giris/blob/master/Bölüm6/Duygu_Tanima/Duygu_Tanima.ipynb)
